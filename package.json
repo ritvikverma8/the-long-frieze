@@ -1,0 +1,10 @@
+{
+  "name": "the-long-frieze",
+  "version": "1.0.0",
+  "description": "An interactive timeline of Indian art history.",
+  "private": true,
+  "scripts": {
+    "download-images": "node scripts/download-images.js",
+    "serve": "npx serve ."
+  }
+}
